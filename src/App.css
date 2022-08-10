@@ -1,3 +1,15 @@
+header{
+  display : flex;
+}
+
+.Nav{
+  display :flex;
+  list-style-type:none;
+}
+
+li{
+  margin-left: 10px;
+}
 .App {
   text-align: center;
 }
