@@ -6,4 +6,6 @@ import App from "./App"
   document.getElementById("root")
 )*/
 
-ReactDOM.createRoot(document.getElementById("root")).render(<App />)
+//ReactDOM.createRoot(document.getElementById("root")).render(<App />)
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />)
